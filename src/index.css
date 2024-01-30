@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;  
+}
+
+body {
+    background-image: url("../images/landing_pg_bg2.jpg");
+    background-size: cover;
+}
+
+.container{
+    position: relative;
+    
+}
+
+.header {
+    display: block;
+    left:25%; 
+    right:25%;    
+    margin-right: auto;     
+    margin-left: auto; 
+    width: 400px;
+    height: 200px;
+
+}
+
+.game-container {
+    display: block;
+    position: absolute;    
+    top: 198px;;     
+    left:25%; 
+    right:25%;    
+    margin-right: auto;     
+    margin-left: auto;    
+    height:550px;     
+    width:400px;  
+    border: 2px solid;
+    box-shadow: 10px 15px #888888;
+}
+
+canvas {
+    display: block;
+    position: absolute;    
+    top:50%;     
+    left:25%; 
+    right:25%;    
+    margin-right: auto;     
+    margin-left: auto;    
+    height:550px;     
+    width:400px;   
+}
+
+canvas #gameover {
+    z-index: 9;
+    display: block;     
+    top:50%;     
+    left:20%;  
+    right:25%;   
+    margin-right: auto;     
+    margin-left: auto;    
+    height:550px;     
+    width:400px;  
+  }
+
+button {
+    border:none;
+    appearance:none;
+    outline:none;
+    display:inline-block;
+    font-size:1.5em;
+    cursor:pointer;
+    text-decoration:none;
+    padding:12px 48px 12px 48px;
+    border-radius:4px;
+    color:#ffffff;
+    background-color:#1bafdb;
+    border: 2px solid #ffffff;
+}
+button {   transition-duration: 0.4s; }
+button:hover {
+    font-size:1.6em;
+    background-color:#05c46b;
+}
+.screen {
+    background-image: url("../images/bg_2.png");
+    /*padding: 20px;*/
+    display: block;     
+    top:50%;     
+    left:25%;  
+    margin-right: auto;     
+    margin-left: auto;    
+    height:550px;     
+    width:400px;   
+    text-align: center;
+}
