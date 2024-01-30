@@ -9,7 +9,7 @@ Last long enough to break all the bricks but keep up the pace as the ball
 increases in speed with every successful paddle.</br>
 Have fun and paddle away.
 
-* used Canvas Api to draw graphics using javascript and HTML
+* used Canvas API to draw graphics using javascript and HTML
 * Created images using GIMP 
 '
 ## Technologies used
