@@ -26,6 +26,12 @@ Have fun and paddle away.
 
 **- npm - webpack - babel**
 
+### Graphic tools used
+![image](https://github.com/C-Basco/Paddle_Panic/assets/66858285/8c5aef18-b4d8-4645-9927-ac71360c7932)
+
+**gimp**
+
+
 ## Gameplay
 #### Objective
 In "Paddle Panic," your objective is to break all the bricks on the screen using the ball while preventing it from falling off the paddle. The game ends when all bricks are destroyed, or the player runs out of lives.
@@ -59,7 +65,7 @@ The game features a minimalist art style with vibrant colors and simple geometri
 - Background - Created using GIMP
 <img src="https://i.ibb.co/G5GBjBv/Gimp.png" alt="Gimp" border="0">
 - Sprites (!--Future Update --)
-- 
+  
 ### Sound and Music
 (!--FUTURE UPDATE--)
 
