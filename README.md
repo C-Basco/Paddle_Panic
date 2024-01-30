@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/zrSTnTv/gameplay-3.gif" alt="gameplay-3" border="0">
 
 ## Description
-This is a minimimlist version of Breakout.</br>
+This is a minimalist version of Breakout.</br>
 Breakout was originally an arcade style game developed by Atari Inc, on 
 May 13, 1976 and designed by Steve Wozniak.</br>
 Last long enough to break all the bricks but keep up the pace as the ball
